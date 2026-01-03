@@ -45,6 +45,7 @@ class _MyAppState extends State<MyApp> {
     );
   }
 
+  //yorum satiri eklemem soylendi
   @override
   Widget build(BuildContext context) {
     const Color panelColor = Color(0xFF9E9E9E);
